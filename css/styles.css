@@ -1,12 +1,7 @@
-.col1{
-	background:#5C7080;
-}
-.col2{
-	background:#6BC0FF;
-}
-.col3{
-	background:#E8AA4C;
-}
-.col4{
-	background:#FF384E;
+html{
+	background: url('img/bg.png') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
